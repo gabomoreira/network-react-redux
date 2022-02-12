@@ -19,7 +19,7 @@
 
 Para usar Network, clique no link abaixo:
 
-[[Abrir com Firebase]](https://network-react-redux.web.app/)
+[![Abrir com Firebase]](https://network-react-redux.web.app/)
 
 ## 💻 Tecnologias
 
